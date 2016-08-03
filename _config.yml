@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.2758688449393958
 name: www.jamesvaulkhard.com
+navigation:
+  - name: Artist
+    url: www.jamesvaulkhard.com
+    type: external
 title: James Bondage
 description: The lovers who spy
